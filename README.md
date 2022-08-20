@@ -8,7 +8,7 @@
   * Number of deaths
 
 
-* Put extracted data in excel file
+* Put extracted data into an excel file
 * Send the excel file over the email to required recipients
 
 
