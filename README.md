@@ -1,5 +1,5 @@
 # CovidReport
- using Uipath Data Scrapping
+ using Uipath application for web Data Scrapping
 
 #Objective:
 * Things to be extracted from the website are:
