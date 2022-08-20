@@ -13,6 +13,7 @@
 
 
 # How to Run
-* Download then open UiPath Studio Community 
+* Download then open UiPath Studio Community.
+* Only run the application from the download folder
 * Next, open the "project.json" file from the downloaded covidReport Folder
 ![image](https://user-images.githubusercontent.com/76446914/185750407-d3e2adfb-2ba3-4d3a-aca8-ca724176fa45.png)
