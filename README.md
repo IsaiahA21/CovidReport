@@ -9,7 +9,6 @@
 
 
 * Put extracted data into an excel file
-* Send the excel file over the email to required recipients
 
 
 # How to Run
